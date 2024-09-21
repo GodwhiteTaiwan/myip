@@ -1,6 +1,6 @@
 # What is my IP?
 A webpage that displays your IP address.\
-https://myip.bruh0422.xyz/
+https://myip-dark.pages.dev/
 
 ## How does it work?
 Actually idk. It's like magic.
